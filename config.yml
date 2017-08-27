@@ -1,11 +1,11 @@
 # site title
-title: Pines Cheng‘s Blog
+title: Pines Cheng‘s Think
 
 # github user
 user: Pines-Cheng 
 
 # issue repository
-repository: blog
+repository: think
 
 # multi-author
 authors:
@@ -13,7 +13,7 @@ authors:
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token: 4#15c377536a81a3bd9e2a9a8f0173d22e915a923
+token: 8#d8885d9955386353ce5c815714dd8dd65e38841
 
 # posts per page
 perpage: 10
